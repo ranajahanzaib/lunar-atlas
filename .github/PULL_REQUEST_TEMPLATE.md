@@ -1,10 +1,16 @@
-Fixes #<issue_number_goes_here>
+Fixes #<issue_number>
 
-> It's a good idea to open an issue first for discussion.
+## Summary
 
-**Description**
-A brief summary of what this PR does and why.
+Briefly describe the purpose of this PR and the scientific or software enhancement introduced.
 
-- [ ] Tests pass
-- [ ] README updated if needed
-- [ ] No breaking changes (or described below)
+## Checklist
+
+- [ ] Conforms to IAU Planetocentric, East-positive coordinate system $[-180^\circ, +180^\circ]$
+- [ ] Complies with Lunar Volumetric Mean Radius $R = 1,737.4\text{ km}$
+- [ ] Preserves geochemical data provenance without fabricated measurements or locations
+- [ ] Unit tests added or updated (`pnpm test`)
+- [ ] Scientific validation tests pass (`uv run pytest`)
+- [ ] TypeScript typecheck passes (`pnpm typecheck`)
+- [ ] Production build succeeds (`pnpm build`)
+- [ ] Documentation updated if applicable (`README.md`, `CHANGELOG.md`)
