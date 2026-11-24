@@ -46,8 +46,8 @@ When contributing code, datasets, or documentation, all changes must strictly co
    - Major rock-forming oxides must be expressed in weight percent ($\text{wt}\%$): $\text{FeO}$, $\text{TiO}_2$, $\text{Al}_2\text{O}_3$, $\text{MgO}$, $\text{SiO}_2$, $\text{CaO}$.
    - Trace and heat-producing elements must be expressed in parts per million ($\text{ppm}$): $\text{Th}$, $\text{K}$, $\text{U}$.
    - In Lunar Prospector Level 5 products, uranium concentration is constrained to thorium by the documented lunar ratio: $U = \text{Th} / 3.8$. Explicitly disclose this relationship when presenting uranium data.
-   - Molar Magnesium Number ($\text{Mg\#}$) must be calculated using authentic molar masses:
-     $$\text{Mg\#} = 100 \times \frac{[\text{MgO}] / 40.3044}{([\text{MgO}] / 40.3044) + ([\text{FeO}] / 71.8444)}$$
+   - Molar Magnesium Number ($\text{Mg\\#}$) must be calculated using authentic molar masses:
+     $$\text{Mg\\#} = 100 \times \frac{[\text{MgO}] / 40.3044}{([\text{MgO}] / 40.3044) + ([\text{FeO}] / 71.8444)}$$
      assuming $\text{Fe}^{2+}$ dominance under reducing lunar oxygen fugacity ($\sim \text{IW}-1$).
 
 3. **Sample Provenance & Disparity Rules**:

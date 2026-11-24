@@ -18,7 +18,7 @@
    - Incompatible trace elements: Thorium (ppm), Potassium (ppm), Uranium (ppm).
    - In Lunar Prospector Level 5 products, uranium concentration is constrained to thorium by the documented lunar ratio: $U = Th / 3.8$. Explicitly disclose this relationship when presenting uranium data.
    - Molar Magnesium Number (Mg#) must be calculated using authentic molar masses:
-     $$\text{Mg\#} = 100 \times \frac{[\text{MgO}] / 40.3044}{([\text{MgO}] / 40.3044) + ([\text{FeO}] / 71.8444)}$$
+     $$\text{Mg\\#} = 100 \times \frac{[\text{MgO}] / 40.3044}{([\text{MgO}] / 40.3044) + ([\text{FeO}] / 71.8444)}$$
      assuming Fe²⁺ dominance (reducing lunar oxygen fugacity).
 
 3. **Sample Provenance & Disparity Rules**:
