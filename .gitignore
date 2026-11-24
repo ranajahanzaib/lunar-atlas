@@ -71,6 +71,11 @@ yarn-error.log*
 *google-services.json
 
 # Python
-venv
-
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
 PLAN.md
