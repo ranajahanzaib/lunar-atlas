@@ -1,0 +1,647 @@
+[
+  {
+    "sampleId": "15415",
+    "canonicalId": "15415,0",
+    "mission": "Apollo 15",
+    "weightGrams": 269.4,
+    "materialType": "anorthosite",
+    "geologicalClassification": "Ferroan Anorthosite (FAN)",
+    "description": "The celebrated 'Genesis Rock'. Consists of >98% calcic plagioclase feldspar (anorthite An96). Coarse-grained, pristine cumulate with minimal shock.",
+    "collectionDate": "1971-08-01",
+    "location": {
+      "precision": "station_approx",
+      "latitude": 26.079,
+      "longitude": 3.655,
+      "uncertaintyRadiusMeters": 15.0,
+      "stationName": "Station 7 (Spur Crater, Apennine Front)",
+      "sourceDocument": "Apollo 15 Preliminary Science Report (NASA SP-289); Compendium 15415 (Meyer 2011)",
+      "sourceUrl": "https://curator.jsc.nasa.gov/lunar/lsc/15415.pdf",
+      "reviewStatus": "verified",
+      "notes": "Collected perched on a dark friable breccia boulder on the north rim of Spur Crater."
+    },
+    "bulkComposition": {
+      "al2_o3": 34.6,
+      "ca_o": 19.3,
+      "si_o2": 44.5,
+      "fe_o": 0.28,
+      "mg_o": 0.16,
+      "ti_o2": 0.02,
+      "k": 110.0,
+      "th": 0.07,
+      "u": 0.02
+    },
+    "measurementsCount": 38,
+    "publicationsCount": 42,
+    "images": [
+      {
+        "id": "15415_macro",
+        "type": "macro_sample",
+        "caption": "Pristine hand specimen of 15415 ('Genesis Rock') showing pale calcic plagioclase crystals.",
+        "credit": "NASA / JSC Lunar Sample Laboratory",
+        "sourceUrl": "https://curator.jsc.nasa.gov/lunar/samplecatalog/sample.cfm?sample=15415"
+      },
+      {
+        "id": "15415_xpl",
+        "type": "cross_polarized",
+        "caption": "Cross-polarized light (XPL) petrographic thin section showing interlocking polysynthetic albite twinning in anorthite crystals.",
+        "credit": "Lunar and Planetary Institute / NASA",
+        "sourceUrl": "https://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2015&sample=15415",
+        "scaleMicronsPerPixel": 1.25,
+        "fieldOfViewMicrons": 2500
+      },
+      {
+        "id": "15415_ppl",
+        "type": "plane_polarized",
+        "caption": "Plane-polarized light (PPL) thin section exhibiting pristine, colorless plagioclase with trace interstitial pyroxene.",
+        "credit": "Lunar and Planetary Institute / NASA",
+        "sourceUrl": "https://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2015&sample=15415",
+        "scaleMicronsPerPixel": 1.25,
+        "fieldOfViewMicrons": 2500
+      }
+    ],
+    "curationFacility": "NASA Johnson Space Center, Lunar Sample Curatorial Facility, Houston, TX"
+  },
+  {
+    "sampleId": "10084",
+    "canonicalId": "10084,0",
+    "mission": "Apollo 11",
+    "weightGrams": 450.0,
+    "materialType": "regolith_soil",
+    "geologicalClassification": "Submature high-Ti mare regolith soil",
+    "description": "The quintessential Apollo 11 bulk regolith sample. Fine-grained dark soil composed of fragmented ilmenite basalts, agglutinates, impact glass, and anorthositic micro-breccias.",
+    "collectionDate": "1969-07-21",
+    "location": {
+      "precision": "exact_sub_meter",
+      "latitude": 0.67408,
+      "longitude": 23.47297,
+      "uncertaintyRadiusMeters": 5.0,
+      "stationName": "Tranquillity Base, LM southern apron",
+      "sourceDocument": "Apollo 11 Lunar Sample Information Catalog; Meyer (2009)",
+      "sourceUrl": "https://curator.jsc.nasa.gov/lunar/lsc/10084.pdf",
+      "reviewStatus": "verified",
+      "notes": "Bulk soil collected with contingency scoop and bulk sample scoop ~10 meters from Lunar Module Eagle."
+    },
+    "bulkComposition": {
+      "fe_o": 15.8,
+      "ti_o2": 7.5,
+      "al2_o3": 13.9,
+      "si_o2": 42.1,
+      "mg_o": 7.9,
+      "ca_o": 12.0,
+      "k": 1150.0,
+      "th": 2.2,
+      "u": 0.58
+    },
+    "measurementsCount": 112,
+    "publicationsCount": 140,
+    "images": [
+      {
+        "id": "10084_macro",
+        "type": "macro_sample",
+        "caption": "Fine dark gray particulate lunar regolith 10084 in Nitrogen storage glovebox.",
+        "credit": "NASA / JSC",
+        "sourceUrl": "https://curator.jsc.nasa.gov/lunar/samplecatalog/sample.cfm?sample=10084"
+      },
+      {
+        "id": "10084_ppl",
+        "type": "plane_polarized",
+        "caption": "Thin section of glass agglutinate and mineral fragments from 10084 soil.",
+        "credit": "NASA / LPI",
+        "sourceUrl": "https://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2011&sample=10084",
+        "scaleMicronsPerPixel": 0.85,
+        "fieldOfViewMicrons": 1800
+      }
+    ],
+    "curationFacility": "NASA Johnson Space Center, Houston, TX"
+  },
+  {
+    "sampleId": "10017",
+    "canonicalId": "10017,0",
+    "mission": "Apollo 11",
+    "weightGrams": 959.0,
+    "materialType": "basalt",
+    "geologicalClassification": "High-K, High-Ti Ilmenite Basalt",
+    "description": "Vesicular fine-grained ilmenite basalt. Plagioclase, titanaugite, and ilmenite dominate the subophitic texture. Crystallization age ~3.65 Ga.",
+    "collectionDate": "1969-07-21",
+    "location": {
+      "precision": "station_approx",
+      "latitude": 0.6741,
+      "longitude": 23.473,
+      "uncertaintyRadiusMeters": 10.0,
+      "stationName": "Tranquillity Base, Bulk Sample Area",
+      "sourceDocument": "NASA SP-214; Compendium 10017",
+      "sourceUrl": "https://curator.jsc.nasa.gov/lunar/lsc/10017.pdf",
+      "reviewStatus": "verified",
+      "notes": "Collected during bulk sample collection near Lunar Module."
+    },
+    "bulkComposition": {
+      "fe_o": 19.4,
+      "ti_o2": 11.8,
+      "si_o2": 40.5,
+      "al2_o3": 8.7,
+      "mg_o": 7.4,
+      "ca_o": 10.5,
+      "k": 2400.0,
+      "th": 3.4,
+      "u": 0.88
+    },
+    "measurementsCount": 54,
+    "publicationsCount": 68,
+    "images": [
+      {
+        "id": "10017_macro",
+        "type": "macro_sample",
+        "caption": "Hand specimen 10017 showing micro-vesicles and dark crystalline basaltic matrix.",
+        "credit": "NASA / JSC",
+        "sourceUrl": "https://curator.jsc.nasa.gov/lunar/samplecatalog/sample.cfm?sample=10017"
+      },
+      {
+        "id": "10017_xpl",
+        "type": "cross_polarized",
+        "caption": "Cross-polarized thin section showing bladed opaque ilmenite crystals intertwined with colorful pyroxene and calcic plagioclase.",
+        "credit": "LPI / NASA",
+        "sourceUrl": "https://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2011&sample=10017",
+        "scaleMicronsPerPixel": 1.1,
+        "fieldOfViewMicrons": 2200
+      }
+    ],
+    "curationFacility": "NASA Johnson Space Center, Houston, TX"
+  },
+  {
+    "sampleId": "12002",
+    "canonicalId": "12002,0",
+    "mission": "Apollo 12",
+    "weightGrams": 1530.0,
+    "materialType": "basalt",
+    "geologicalClassification": "Olivine Basalt",
+    "description": "Medium-grained porphyritic olivine basalt with skeletal olivine phenocrysts set in pyroxene-plagioclase variolitic matrix.",
+    "collectionDate": "1969-11-20",
+    "location": {
+      "precision": "station_approx",
+      "latitude": -3.013,
+      "longitude": -23.422,
+      "uncertaintyRadiusMeters": 15.0,
+      "stationName": "Middle Crescent Crater Rim",
+      "sourceDocument": "Apollo 12 Preliminary Science Report (NASA SP-235)",
+      "sourceUrl": "https://curator.jsc.nasa.gov/lunar/lsc/12002.pdf",
+      "reviewStatus": "verified",
+      "notes": "Collected on the northern rim crest of Middle Crescent Crater during EVA 1."
+    },
+    "bulkComposition": {
+      "fe_o": 21.2,
+      "ti_o2": 2.8,
+      "mg_o": 14.8,
+      "si_o2": 44.1,
+      "al2_o3": 7.9,
+      "ca_o": 8.4,
+      "k": 480.0,
+      "th": 0.85,
+      "u": 0.22
+    },
+    "measurementsCount": 46,
+    "publicationsCount": 51,
+    "images": [
+      {
+        "id": "12002_macro",
+        "type": "macro_sample",
+        "caption": "Apollo 12 olivine basalt hand sample 12002.",
+        "credit": "NASA / JSC",
+        "sourceUrl": "https://curator.jsc.nasa.gov/lunar/samplecatalog/sample.cfm?sample=12002"
+      },
+      {
+        "id": "12002_xpl",
+        "type": "cross_polarized",
+        "caption": "Cross-polarized thin section illustrating zoning in magnesium-rich olivine crystals and clinopyroxene.",
+        "credit": "LPI / NASA",
+        "sourceUrl": "https://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2012&sample=12002",
+        "scaleMicronsPerPixel": 1.4,
+        "fieldOfViewMicrons": 2800
+      }
+    ],
+    "curationFacility": "NASA Johnson Space Center, Houston, TX"
+  },
+  {
+    "sampleId": "12013",
+    "canonicalId": "12013,0",
+    "mission": "Apollo 12",
+    "weightGrams": 82.3,
+    "materialType": "breccia",
+    "geologicalClassification": "Granitic / KREEP Breccia",
+    "description": "Unique polymict breccia containing light-colored clasts of lunar granite (quartz + K-feldspar felsite) in dark KREEP impact melt matrix. High K, Th, U, and Ba.",
+    "collectionDate": "1969-11-20",
+    "location": {
+      "precision": "station_approx",
+      "latitude": -3.011,
+      "longitude": -23.424,
+      "uncertaintyRadiusMeters": 20.0,
+      "stationName": "Bench Crater area",
+      "sourceDocument": "Lunar Sample Compendium 12013 (Meyer 2011)",
+      "sourceUrl": "https://curator.jsc.nasa.gov/lunar/lsc/12013.pdf",
+      "reviewStatus": "verified",
+      "notes": "Collected during EVA 2 near Bench Crater."
+    },
+    "bulkComposition": {
+      "th": 13.8,
+      "k": 18200.0,
+      "u": 3.65,
+      "si_o2": 61.2,
+      "al2_o3": 12.1,
+      "fe_o": 9.4,
+      "ca_o": 6.8,
+      "mg_o": 2.2,
+      "ti_o2": 1.1
+    },
+    "measurementsCount": 65,
+    "publicationsCount": 78,
+    "images": [
+      {
+        "id": "12013_macro",
+        "type": "macro_sample",
+        "caption": "Hand sample 12013 exhibiting distinctive white felsic clasts embedded in dark KREEP matrix.",
+        "credit": "NASA / JSC",
+        "sourceUrl": "https://curator.jsc.nasa.gov/lunar/samplecatalog/sample.cfm?sample=12013"
+      },
+      {
+        "id": "12013_xpl",
+        "type": "cross_polarized",
+        "caption": "Cross-polarized view of granophyric intergrowth of potassium feldspar and silica in lunar granite clast.",
+        "credit": "LPI / NASA",
+        "sourceUrl": "https://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2012&sample=12013",
+        "scaleMicronsPerPixel": 0.75,
+        "fieldOfViewMicrons": 1500
+      }
+    ],
+    "curationFacility": "NASA Johnson Space Center, Houston, TX"
+  },
+  {
+    "sampleId": "14321",
+    "canonicalId": "14321,0",
+    "mission": "Apollo 14",
+    "weightGrams": 8998.0,
+    "materialType": "breccia",
+    "geologicalClassification": "Polymict KREEP-rich impact melt breccia ('Big Bertha')",
+    "description": "Largest rock returned by Apollo 14. Complex clast-rich impact melt breccia from Cone Crater rim. Contains basalt clasts, norite, troctolite, and ancient zircon-bearing granitic fragments.",
+    "collectionDate": "1971-02-06",
+    "location": {
+      "precision": "exact_sub_meter",
+      "latitude": -3.642,
+      "longitude": -17.467,
+      "uncertaintyRadiusMeters": 5.0,
+      "stationName": "Station C1, Cone Crater rim",
+      "sourceDocument": "Apollo 14 Science Report; Compendium 14321 (Meyer 2012)",
+      "sourceUrl": "https://curator.jsc.nasa.gov/lunar/lsc/14321.pdf",
+      "reviewStatus": "verified",
+      "notes": "Collected at Station C1 on the ejecta blanket ~30 m from the rim crest of Cone Crater."
+    },
+    "bulkComposition": {
+      "th": 11.2,
+      "fe_o": 10.4,
+      "al2_o3": 17.5,
+      "si_o2": 47.9,
+      "k": 4500.0,
+      "u": 2.95,
+      "mg_o": 9.1,
+      "ca_o": 10.3,
+      "ti_o2": 1.7
+    },
+    "measurementsCount": 88,
+    "publicationsCount": 95,
+    "images": [
+      {
+        "id": "14321_macro",
+        "type": "macro_sample",
+        "caption": "Large 9.0 kg specimen of 14321 'Big Bertha' showing micro-cratering and clast diversity.",
+        "credit": "NASA / JSC",
+        "sourceUrl": "https://curator.jsc.nasa.gov/lunar/samplecatalog/sample.cfm?sample=14321"
+      },
+      {
+        "id": "14321_xpl",
+        "type": "cross_polarized",
+        "caption": "Cross-polarized thin section displaying diverse mineral clasts set in a finely crystallized melt matrix.",
+        "credit": "LPI / NASA",
+        "sourceUrl": "https://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14321",
+        "scaleMicronsPerPixel": 1.5,
+        "fieldOfViewMicrons": 3000
+      }
+    ],
+    "curationFacility": "NASA Johnson Space Center, Houston, TX"
+  },
+  {
+    "sampleId": "15426",
+    "canonicalId": "15426,0",
+    "mission": "Apollo 15",
+    "weightGrams": 242.0,
+    "materialType": "pyroclastic_glass",
+    "geologicalClassification": "Ultramafic Pyroclastic Green Glass",
+    "description": "Friable clod composed of emerald-green volcanic glass spherules. Represents primitive, mantle-derived pyroclastic volcanic fountain deposit with high Mg# (~61).",
+    "collectionDate": "1971-08-01",
+    "location": {
+      "precision": "station_approx",
+      "latitude": 26.079,
+      "longitude": 3.655,
+      "uncertaintyRadiusMeters": 15.0,
+      "stationName": "Station 7 (Spur Crater)",
+      "sourceDocument": "Meyer (2010) Compendium 15426; Delano (1986)",
+      "sourceUrl": "https://curator.jsc.nasa.gov/lunar/lsc/15426.pdf",
+      "reviewStatus": "verified",
+      "notes": "Collected along the north rim of Spur Crater on the Apennine Front."
+    },
+    "bulkComposition": {
+      "fe_o": 19.8,
+      "mg_o": 17.5,
+      "si_o2": 45.4,
+      "al2_o3": 7.7,
+      "ca_o": 8.4,
+      "ti_o2": 0.42,
+      "k": 180.0,
+      "th": 0.45,
+      "u": 0.12
+    },
+    "measurementsCount": 72,
+    "publicationsCount": 85,
+    "images": [
+      {
+        "id": "15426_macro",
+        "type": "macro_sample",
+        "caption": "Vibrant green volcanic glass spherules in regolith matrix 15426.",
+        "credit": "NASA / JSC",
+        "sourceUrl": "https://curator.jsc.nasa.gov/lunar/samplecatalog/sample.cfm?sample=15426"
+      },
+      {
+        "id": "15426_ppl",
+        "type": "plane_polarized",
+        "caption": "Plane-polarized view of transparent homogeneous spherical volcanic glass beads.",
+        "credit": "LPI / NASA",
+        "sourceUrl": "https://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2015&sample=15426",
+        "scaleMicronsPerPixel": 0.8,
+        "fieldOfViewMicrons": 1600
+      }
+    ],
+    "curationFacility": "NASA Johnson Space Center, Houston, TX"
+  },
+  {
+    "sampleId": "60015",
+    "canonicalId": "60015,0",
+    "mission": "Apollo 16",
+    "weightGrams": 5574.0,
+    "materialType": "anorthosite",
+    "geologicalClassification": "Cataclastic Ferroan Anorthosite coated in glass",
+    "description": "Large block of calcic ferroan anorthosite coated by black impact melt glass. Plagioclase content >95% (An96-97). Crystallization age ~4.45 Ga.",
+    "collectionDate": "1972-04-21",
+    "location": {
+      "precision": "exact_sub_meter",
+      "latitude": -8.973,
+      "longitude": 15.498,
+      "uncertaintyRadiusMeters": 5.0,
+      "stationName": "LM Landing Site, Cayley Plains",
+      "sourceDocument": "Apollo 16 Preliminary Science Report; Compendium 60015",
+      "sourceUrl": "https://curator.jsc.nasa.gov/lunar/lsc/60015.pdf",
+      "reviewStatus": "verified",
+      "notes": "Collected ~110 meters west of the Lunar Module Orion."
+    },
+    "bulkComposition": {
+      "al2_o3": 33.8,
+      "ca_o": 18.7,
+      "si_o2": 44.8,
+      "fe_o": 0.82,
+      "mg_o": 0.65,
+      "ti_o2": 0.05,
+      "k": 140.0,
+      "th": 0.12,
+      "u": 0.03
+    },
+    "measurementsCount": 51,
+    "publicationsCount": 60,
+    "images": [
+      {
+        "id": "60015_macro",
+        "type": "macro_sample",
+        "caption": "Hand specimen 60015 showing white interior anorthosite framed by black vesicular impact melt glass.",
+        "credit": "NASA / JSC",
+        "sourceUrl": "https://curator.jsc.nasa.gov/lunar/samplecatalog/sample.cfm?sample=60015"
+      },
+      {
+        "id": "60015_xpl",
+        "type": "cross_polarized",
+        "caption": "Cross-polarized thin section showing heavily fractured cataclastic calcic plagioclase with undulose extinction.",
+        "credit": "LPI / NASA",
+        "sourceUrl": "https://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=60015",
+        "scaleMicronsPerPixel": 1.2,
+        "fieldOfViewMicrons": 2400
+      }
+    ],
+    "curationFacility": "NASA Johnson Space Center, Houston, TX"
+  },
+  {
+    "sampleId": "61016",
+    "canonicalId": "61016,0",
+    "mission": "Apollo 16",
+    "weightGrams": 11745.0,
+    "materialType": "breccia",
+    "geologicalClassification": "Dimict Breccia ('Big Muley')",
+    "description": "The largest rock collected by Apollo 16 astronauts. Striking dimict breccia consisting of an anorthosite core intruded and surrounded by dark impact melt breccia.",
+    "collectionDate": "1972-04-21",
+    "location": {
+      "precision": "exact_sub_meter",
+      "latitude": -8.978,
+      "longitude": 15.51,
+      "uncertaintyRadiusMeters": 5.0,
+      "stationName": "Station 1, Plum Crater rim",
+      "sourceDocument": "Meyer (2008) Lunar Sample Compendium 61016",
+      "sourceUrl": "https://curator.jsc.nasa.gov/lunar/lsc/61016.pdf",
+      "reviewStatus": "verified",
+      "notes": "Collected on the eastern rim of Plum Crater."
+    },
+    "bulkComposition": {
+      "al2_o3": 29.8,
+      "ca_o": 16.5,
+      "si_o2": 45.1,
+      "fe_o": 3.4,
+      "mg_o": 4.2,
+      "ti_o2": 0.45,
+      "k": 620.0,
+      "th": 1.45,
+      "u": 0.38
+    },
+    "measurementsCount": 58,
+    "publicationsCount": 71,
+    "images": [
+      {
+        "id": "61016_macro",
+        "type": "macro_sample",
+        "caption": "11.7 kg boulder 61016 'Big Muley' with contrasting white anorthosite and dark melt lithologies.",
+        "credit": "NASA / JSC",
+        "sourceUrl": "https://curator.jsc.nasa.gov/lunar/samplecatalog/sample.cfm?sample=61016"
+      },
+      {
+        "id": "61016_xpl",
+        "type": "cross_polarized",
+        "caption": "Cross-polarized thin section showing sharp contact between coarse anorthosite and fine-grained crystallized impact melt.",
+        "credit": "LPI / NASA",
+        "sourceUrl": "https://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=61016",
+        "scaleMicronsPerPixel": 1.3,
+        "fieldOfViewMicrons": 2600
+      }
+    ],
+    "curationFacility": "NASA Johnson Space Center, Houston, TX"
+  },
+  {
+    "sampleId": "74220",
+    "canonicalId": "74220,0",
+    "mission": "Apollo 17",
+    "weightGrams": 1180.0,
+    "materialType": "pyroclastic_glass",
+    "geologicalClassification": "High-Ti Volcanic Orange Soil Glass",
+    "description": "Celebrated 'Orange Soil' discovered by Harrison Schmitt at Shorty Crater. Ultramafic pyroclastic volcanic glass droplets (and crystallized black ilmenite beads 74001). Volatile rich.",
+    "collectionDate": "1972-12-12",
+    "location": {
+      "precision": "exact_sub_meter",
+      "latitude": 20.198,
+      "longitude": 30.709,
+      "uncertaintyRadiusMeters": 3.0,
+      "stationName": "Station 4, Shorty Crater south rim",
+      "sourceDocument": "Apollo 17 Science Report (NASA SP-330); Compendium 74220 (Meyer 2011)",
+      "sourceUrl": "https://curator.jsc.nasa.gov/lunar/lsc/74220.pdf",
+      "reviewStatus": "verified",
+      "notes": "Trench sample excavated from the orange and black pyroclastic deposit on the south rim of Shorty Crater."
+    },
+    "bulkComposition": {
+      "ti_o2": 8.8,
+      "fe_o": 22.1,
+      "mg_o": 14.9,
+      "si_o2": 38.6,
+      "al2_o3": 6.3,
+      "ca_o": 7.6,
+      "k": 850.0,
+      "th": 0.48,
+      "u": 0.13
+    },
+    "measurementsCount": 94,
+    "publicationsCount": 115,
+    "images": [
+      {
+        "id": "74220_macro",
+        "type": "macro_sample",
+        "caption": "Vivid orange pyroclastic soil 74220 collected at Shorty Crater.",
+        "credit": "NASA / JSC",
+        "sourceUrl": "https://curator.jsc.nasa.gov/lunar/samplecatalog/sample.cfm?sample=74220"
+      },
+      {
+        "id": "74220_ppl",
+        "type": "plane_polarized",
+        "caption": "Plane-polarized view of transparent orange homogeneous volcanic glass droplets with surface volatile sublimates (S, Cl, Zn).",
+        "credit": "LPI / NASA",
+        "sourceUrl": "https://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=74220",
+        "scaleMicronsPerPixel": 0.6,
+        "fieldOfViewMicrons": 1200
+      }
+    ],
+    "curationFacility": "NASA Johnson Space Center, Houston, TX"
+  },
+  {
+    "sampleId": "76535",
+    "canonicalId": "76535,0",
+    "mission": "Apollo 17",
+    "weightGrams": 155.5,
+    "materialType": "troctolite",
+    "geologicalClassification": "Pristine Coarse-Grained Troctolite",
+    "description": "Perhaps the most pristine unshocked plutonic rock returned from the Moon. Consists of 58% calcic plagioclase, 37% magnesian olivine (Fo88), and 4% bronzite. Crystallized at ~10-30 km depth at ~4.2-4.3 Ga.",
+    "collectionDate": "1972-12-13",
+    "location": {
+      "precision": "exact_sub_meter",
+      "latitude": 20.245,
+      "longitude": 30.778,
+      "uncertaintyRadiusMeters": 5.0,
+      "stationName": "Station 6, North Massif base",
+      "sourceDocument": "Meyer (2010) Compendium 76535; Gooley et al. (1974)",
+      "sourceUrl": "https://curator.jsc.nasa.gov/lunar/lsc/76535.pdf",
+      "reviewStatus": "verified",
+      "notes": "Collected as a rake sample on the talus slope at the base of North Massif."
+    },
+    "bulkComposition": {
+      "al2_o3": 20.7,
+      "mg_o": 19.1,
+      "si_o2": 42.8,
+      "ca_o": 11.4,
+      "fe_o": 5.1,
+      "ti_o2": 0.08,
+      "k": 290.0,
+      "th": 0.32,
+      "u": 0.08
+    },
+    "measurementsCount": 62,
+    "publicationsCount": 75,
+    "images": [
+      {
+        "id": "76535_macro",
+        "type": "macro_sample",
+        "caption": "Hand specimen 76535 showing coarse interlocking granoblastic texture of white plagioclase and yellow-green olivine.",
+        "credit": "NASA / JSC",
+        "sourceUrl": "https://curator.jsc.nasa.gov/lunar/samplecatalog/sample.cfm?sample=76535"
+      },
+      {
+        "id": "76535_xpl",
+        "type": "cross_polarized",
+        "caption": "Cross-polarized thin section demonstrating beautiful 120-degree triple junctions indicative of slow plutonic metamorphic annealing.",
+        "credit": "LPI / NASA",
+        "sourceUrl": "https://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=76535",
+        "scaleMicronsPerPixel": 1.1,
+        "fieldOfViewMicrons": 2200
+      }
+    ],
+    "curationFacility": "NASA Johnson Space Center, Houston, TX"
+  },
+  {
+    "sampleId": "70017",
+    "canonicalId": "70017,0",
+    "mission": "Apollo 17",
+    "weightGrams": 2957.0,
+    "materialType": "basalt",
+    "geologicalClassification": "Coarse-Grained High-Ti Ilmenite Basalt",
+    "description": "Coarse-grained vesicular subophitic high-Ti basalt. Plagioclase, titanaugite, and skeletal ilmenite plates dominate the framework.",
+    "collectionDate": "1972-12-11",
+    "location": {
+      "precision": "exact_sub_meter",
+      "latitude": 20.191,
+      "longitude": 30.772,
+      "uncertaintyRadiusMeters": 5.0,
+      "stationName": "LM Landing Site (Challenger)",
+      "sourceDocument": "Apollo 17 Science Report; Compendium 70017",
+      "sourceUrl": "https://curator.jsc.nasa.gov/lunar/lsc/70017.pdf",
+      "reviewStatus": "verified",
+      "notes": "Collected during EVA 1 near the Lunar Module Challenger on the Taurus-Littrow valley floor."
+    },
+    "bulkComposition": {
+      "fe_o": 18.2,
+      "ti_o2": 13.0,
+      "mg_o": 8.9,
+      "si_o2": 38.7,
+      "al2_o3": 8.8,
+      "ca_o": 10.4,
+      "k": 620.0,
+      "th": 0.65,
+      "u": 0.17
+    },
+    "measurementsCount": 49,
+    "publicationsCount": 55,
+    "images": [
+      {
+        "id": "70017_macro",
+        "type": "macro_sample",
+        "caption": "Vesicular basalt 70017 'The Goodwill Rock' piece presented to nations of the world.",
+        "credit": "NASA / JSC",
+        "sourceUrl": "https://curator.jsc.nasa.gov/lunar/samplecatalog/sample.cfm?sample=70017"
+      },
+      {
+        "id": "70017_xpl",
+        "type": "cross_polarized",
+        "caption": "Cross-polarized view of coarse subophitic ilmenite, pyroxene, and plagioclase laths.",
+        "credit": "LPI / NASA",
+        "sourceUrl": "https://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=70017",
+        "scaleMicronsPerPixel": 1.25,
+        "fieldOfViewMicrons": 2500
+      }
+    ],
+    "curationFacility": "NASA Johnson Space Center, Houston, TX"
+  }
+]

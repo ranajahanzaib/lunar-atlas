@@ -1,0 +1,204 @@
+[
+  {
+    "id": "apollo_11",
+    "name": "Apollo 11",
+    "program": "Apollo",
+    "landingDate": "1969-07-20T20:17:40Z",
+    "durationHours": 21.6,
+    "landingCoordinates": {
+      "latitude": 0.67408,
+      "longitude": 23.47297
+    },
+    "landingSiteName": "Tranquillity Base, Mare Tranquillitatis",
+    "totalMassReturnedKg": 21.55,
+    "catalogedSamplesCount": 58,
+    "geologicalContext": "Smooth mare plain in southwestern Mare Tranquillitatis with abundant small impact craters (e.g. West Crater). Regolith depth ~4-5 m.",
+    "primaryScientificGoals": [
+      "Return the first pristine samples from another planetary body",
+      "Characterize mare regolith and basalt petrology",
+      "Deploy Early Apollo Scientific Experiments Package (EASEP)"
+    ],
+    "scientificSummary": "Returned high-titanium, low-potassium mare basalts and regolith breccias. Revealed an anhydrous Moon with strongly reducing conditions and severe depletion of volatile elements."
+  },
+  {
+    "id": "apollo_12",
+    "name": "Apollo 12",
+    "program": "Apollo",
+    "landingDate": "1969-11-19T06:54:35Z",
+    "durationHours": 31.5,
+    "landingCoordinates": {
+      "latitude": -3.01239,
+      "longitude": -23.42157
+    },
+    "landingSiteName": "Statio Cognitum, Oceanus Procellarum",
+    "totalMassReturnedKg": 34.35,
+    "catalogedSamplesCount": 69,
+    "geologicalContext": "Western near-side mare plain adjacent to Surveyor 3 crater, within a ray of Copernicus Crater.",
+    "primaryScientificGoals": [
+      "Sample younger Oceanus Procellarum mare basalts",
+      "Investigate Copernicus Crater ray material",
+      "Retrieve components of the Surveyor 3 robotic spacecraft for cosmic ray/space weathering study"
+    ],
+    "scientificSummary": "Discovered lower-Ti olivine and pigeonite basalts significantly younger than Apollo 11 (3.15-3.3 Ga). Sample 12013 provided the first discovery of lunar granite / KREEP differentiates."
+  },
+  {
+    "id": "apollo_14",
+    "name": "Apollo 14",
+    "program": "Apollo",
+    "landingDate": "1971-02-05T09:18:11Z",
+    "durationHours": 33.5,
+    "landingCoordinates": {
+      "latitude": -3.6453,
+      "longitude": -17.47136
+    },
+    "landingSiteName": "Fra Mauro Highlands",
+    "totalMassReturnedKg": 42.28,
+    "catalogedSamplesCount": 227,
+    "geologicalContext": "Hummocky ridge terrain of the Fra Mauro Formation, interpreted as ejecta blanket excavated by the catastrophic Imbrium Basin impact.",
+    "primaryScientificGoals": [
+      "Sample deep ejecta from the Imbrium Basin impact",
+      "Date the Fra Mauro Formation to calibrate the lunar cataclysm / terminal cataclysm hypothesis",
+      "Investigate Cone Crater ejecta"
+    ],
+    "scientificSummary": "Dominated by complex polymict impact breccias heavily enriched in KREEP. Dated the Imbrium impact event to ~3.85-3.92 Ga, a cornerstone of planetary chronology."
+  },
+  {
+    "id": "apollo_15",
+    "name": "Apollo 15",
+    "program": "Apollo",
+    "landingDate": "1971-07-30T22:16:29Z",
+    "durationHours": 66.9,
+    "landingCoordinates": {
+      "latitude": 26.13222,
+      "longitude": 3.63386
+    },
+    "landingSiteName": "Hadley-Apennine, Montes Apenninus",
+    "totalMassReturnedKg": 77.31,
+    "catalogedSamplesCount": 370,
+    "geologicalContext": "Dramatic interface between the 4.5 km high Montes Apenninus (Imbrium basin rim) and the sinuous volcanic rille Rima Hadley on Palus Putredinis.",
+    "primaryScientificGoals": [
+      "Sample pre-Imbrian primordial lunar crust on the Apennine Front",
+      "Investigate volcanic origin of sinuous rilles (Rima Hadley)",
+      "First mission deploying the Lunar Roving Vehicle (LRV) covering 27.9 km traverse"
+    ],
+    "scientificSummary": "Discovered sample 15415 ('Genesis Rock'), an unshocked Ferroan Anorthosite confirming the flotation crust of the Lunar Magma Ocean. Collected pyroclastic green glass beads representing pristine deep mantle melts."
+  },
+  {
+    "id": "apollo_16",
+    "name": "Apollo 16",
+    "program": "Apollo",
+    "landingDate": "1972-04-21T02:23:35Z",
+    "durationHours": 71.0,
+    "landingCoordinates": {
+      "latitude": -8.97301,
+      "longitude": 15.49812
+    },
+    "landingSiteName": "Descartes Highlands",
+    "totalMassReturnedKg": 95.71,
+    "catalogedSamplesCount": 731,
+    "geologicalContext": "Central near-side highlands on the Cayley Plains and Descartes Formation, between North Ray and South Ray craters.",
+    "primaryScientificGoals": [
+      "Investigate the hypothesis that highland plains were formed by silicic volcanism",
+      "Sample central lunar highlands away from mare influence",
+      "Traverse Stone Mountain and inspect deep ray craters"
+    ],
+    "scientificSummary": "Revolutionized lunar geology by disproving highland volcanism: Cayley and Descartes formations were proven to be impact breccias and anorthosites, establishing impact cratering as the primary resurfacing process on early planets."
+  },
+  {
+    "id": "apollo_17",
+    "name": "Apollo 17",
+    "program": "Apollo",
+    "landingDate": "1972-12-11T19:54:57Z",
+    "durationHours": 75.0,
+    "landingCoordinates": {
+      "latitude": 20.1908,
+      "longitude": 30.77168
+    },
+    "landingSiteName": "Taurus-Littrow Valley",
+    "totalMassReturnedKg": 110.52,
+    "catalogedSamplesCount": 741,
+    "geologicalContext": "Deep graben valley between North Massif and South Massif at the southeastern edge of Serenitatis Basin, with dark mantle deposits and mare basalts.",
+    "primaryScientificGoals": [
+      "Sample Serenitatis basin impact melt from massifs",
+      "Sample dark mantle pyroclastics (volcanic orange soil at Shorty Crater)",
+      "First mission with a professional geologist astronaut (Dr. Harrison H. Schmitt)"
+    ],
+    "scientificSummary": "Discovered volcanic orange soil (74220) containing indigenous lunar water and volatile coatings. Returned 76535 (pristine troctolite) and 72417 (dunite), providing ancient windows into early lunar mantle differentiation (~4.5 Ga)."
+  },
+  {
+    "id": "luna_16",
+    "name": "Luna 16",
+    "program": "Luna",
+    "landingDate": "1970-09-20T05:18:00Z",
+    "durationHours": 26.0,
+    "landingCoordinates": {
+      "latitude": -0.68,
+      "longitude": 56.3
+    },
+    "landingSiteName": "Mare Fecunditatis",
+    "totalMassReturnedKg": 0.101,
+    "catalogedSamplesCount": 1,
+    "geologicalContext": "Eastern near-side mare basalt plain.",
+    "primaryScientificGoals": [
+      "First automated robotic sample return from the Moon"
+    ],
+    "scientificSummary": "First robotic drilling and sample retrieval. Returned 101 g of regolith core containing Al-rich, low-Ti basalts, expanding the diversity of known mare volcanism."
+  },
+  {
+    "id": "luna_20",
+    "name": "Luna 20",
+    "program": "Luna",
+    "landingDate": "1972-02-21T19:19:00Z",
+    "durationHours": 27.5,
+    "landingCoordinates": {
+      "latitude": 3.53,
+      "longitude": 56.55
+    },
+    "landingSiteName": "Apollonius Highlands",
+    "totalMassReturnedKg": 0.055,
+    "catalogedSamplesCount": 1,
+    "geologicalContext": "Rugged highland shelf between Mare Fecunditatis and Mare Crisium.",
+    "primaryScientificGoals": [
+      "Automated robotic sampling of lunar terra (highland) crust"
+    ],
+    "scientificSummary": "Robotic drill returned 55 g of anorthositic highland breccia, demonstrating that eastern highlands share the same anorthositic composition as western Apollo sites."
+  },
+  {
+    "id": "luna_24",
+    "name": "Luna 24",
+    "program": "Luna",
+    "landingDate": "1976-08-18T06:37:00Z",
+    "durationHours": 23.0,
+    "landingCoordinates": {
+      "latitude": 12.71,
+      "longitude": 62.2
+    },
+    "landingSiteName": "Mare Crisium",
+    "totalMassReturnedKg": 0.17,
+    "catalogedSamplesCount": 1,
+    "geologicalContext": "Interior floor of the isolated circular Crisium impact basin.",
+    "primaryScientificGoals": [
+      "Deep core sampling of Mare Crisium floor down to 2 meters"
+    ],
+    "scientificSummary": "Returned 170 g drill core down to 2 m depth. Identified very low titanium (VLT) basalts and provided early evidence of trace water in lunar minerals."
+  },
+  {
+    "id": "change_5",
+    "name": "Chang'e 5",
+    "program": "Chang'e",
+    "landingDate": "2020-12-01T15:11:00Z",
+    "durationHours": 48.0,
+    "landingCoordinates": {
+      "latitude": 43.058,
+      "longitude": -51.916
+    },
+    "landingSiteName": "Northern Oceanus Procellarum, Mons R\u00fcmker Region",
+    "totalMassReturnedKg": 1.731,
+    "catalogedSamplesCount": 1,
+    "geologicalContext": "Youngest volcanic mare unit in Northern Oceanus Procellarum (Em4/P58).",
+    "primaryScientificGoals": [
+      "Sample ultra-young mare basalts to constrain late-stage lunar thermal evolution"
+    ],
+    "scientificSummary": "Dated returned basalts to 2.03 \u00b1 0.004 Ga. Proved that volcanic eruptions continued on the Moon nearly 1 billion years later than previously confirmed by Apollo."
+  }
+]

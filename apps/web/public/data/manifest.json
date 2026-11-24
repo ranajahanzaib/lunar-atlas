@@ -1,0 +1,46 @@
+{
+  "datasetRelease": "LUNAR-ATLAS-2026.1",
+  "releaseDate": "2026-11-24",
+  "authoritativeSources": [
+    {
+      "name": "Lunar Prospector Gamma Ray Spectrometer (GRS)",
+      "pdsId": "LP-L-GRS-5-ELEM-ABUNDANCE-V1.0",
+      "citation": "Prettyman, T. H. et al. (2006) J. Geophys. Res., 111, E12007, doi:10.1029/2005JE002656",
+      "pixelCount": 1654,
+      "gridType": "5-degree equal-area planetocentric"
+    },
+    {
+      "name": "NASA Lunar Sample Compendium & Astromat",
+      "source": "NASA Johnson Space Center Astromaterials Research & Exploration Science (ARES)",
+      "verifiedSamplesCount": 12,
+      "missionsCovered": [
+        "Apollo 11",
+        "Apollo 12",
+        "Apollo 14",
+        "Apollo 15",
+        "Apollo 16",
+        "Apollo 17",
+        "Luna 16",
+        "Luna 20",
+        "Luna 24",
+        "Chang'e 5"
+      ]
+    },
+    {
+      "name": "IAU / USGS Gazetteer of Planetary Nomenclature",
+      "target": "MOON",
+      "regionsCount": 14
+    }
+  ],
+  "qualityMetrics": {
+    "orbitalCellsValid": 1654,
+    "missingValues": 0,
+    "coordinateSystem": "Planetocentric, East-Positive [-180, 180]",
+    "meanRadiusKm": 1737.4,
+    "sampleCrossReferenceStatus": {
+      "verified": 12,
+      "stationLevel": 5,
+      "exactSubMeter": 7
+    }
+  }
+}

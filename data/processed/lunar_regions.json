@@ -1,0 +1,436 @@
+[
+  {
+    "id": "oceanus_procellarum",
+    "name": "Oceanus Procellarum",
+    "type": "mare",
+    "centerCoordinates": {
+      "latitude": 18.4,
+      "longitude": -57.4
+    },
+    "boundingBox": {
+      "latMin": -3.0,
+      "latMax": 40.0,
+      "lonMin": -80.0,
+      "lonMax": -35.0
+    },
+    "approxAreaKm2": 4000000,
+    "geologicalUnit": "Em (Eratosthenian Mare) & Im (Imbrian Mare)",
+    "stratigraphicAge": "Late Imbrian to Eratosthenian (3.5 - 2.0 Ga)",
+    "summary": "The largest lunar mare, dominating the western near side. Rich in heat-producing incompatible elements (Th, K, U).",
+    "significance": "Core domain of the Procellarum KREEP Terrane (PKT), exhibiting the Moon's longest-lived volcanic history including Chang'e 5 basalts.",
+    "meanAbundances": {
+      "th": 5.8,
+      "fe_o": 16.2,
+      "ti_o2": 4.1,
+      "k": 2200,
+      "u": 1.53,
+      "mg_o": 8.4,
+      "al2_o3": 12.8,
+      "si_o2": 45.4,
+      "ca_o": 10.6
+    }
+  },
+  {
+    "id": "mare_imbrium",
+    "name": "Mare Imbrium",
+    "type": "basin",
+    "centerCoordinates": {
+      "latitude": 32.8,
+      "longitude": -15.6
+    },
+    "boundingBox": {
+      "latMin": 20.0,
+      "latMax": 45.0,
+      "lonMin": -35.0,
+      "lonMax": 5.0
+    },
+    "approxAreaKm2": 1160000,
+    "geologicalUnit": "Imbrium Basin & Basalt Plain",
+    "stratigraphicAge": "Early Imbrian (~3.85 Ga impact) filled 3.5 - 2.5 Ga",
+    "summary": "A colossal multi-ring impact basin filled with flood basalts. Ringed by Montes Apenninus and Montes Caucasus.",
+    "significance": "Defining event of the Imbrian Period. Excavated deeply into the urKREEP reservoir, distributing Th-rich ejecta (Fra Mauro Formation).",
+    "meanAbundances": {
+      "th": 6.4,
+      "fe_o": 15.8,
+      "ti_o2": 3.6,
+      "k": 2450,
+      "u": 1.68,
+      "mg_o": 8.7,
+      "al2_o3": 13.1,
+      "si_o2": 45.5,
+      "ca_o": 10.8
+    }
+  },
+  {
+    "id": "mare_tranquillitatis",
+    "name": "Mare Tranquillitatis",
+    "type": "mare",
+    "centerCoordinates": {
+      "latitude": 8.5,
+      "longitude": 31.4
+    },
+    "boundingBox": {
+      "latMin": 0.0,
+      "latMax": 18.0,
+      "lonMin": 20.0,
+      "lonMax": 43.0
+    },
+    "approxAreaKm2": 420000,
+    "geologicalUnit": "High-Ti Mare Basalts",
+    "stratigraphicAge": "Early Imbrian (3.8 - 3.5 Ga)",
+    "summary": "Site of Apollo 11 landing. Notable for dark, low-albedo high-titanium basalts containing abundant ilmenite (FeTiO3).",
+    "significance": "Highest TiO2 concentrations on the lunar surface (up to 11 wt% in returned samples), representing early cumulate mantle melting.",
+    "meanAbundances": {
+      "th": 2.8,
+      "fe_o": 16.9,
+      "ti_o2": 7.8,
+      "k": 1350,
+      "u": 0.74,
+      "mg_o": 8.1,
+      "al2_o3": 11.4,
+      "si_o2": 44.9,
+      "ca_o": 10.4
+    }
+  },
+  {
+    "id": "mare_serenitatis",
+    "name": "Mare Serenitatis",
+    "type": "basin",
+    "centerCoordinates": {
+      "latitude": 28.0,
+      "longitude": 17.5
+    },
+    "boundingBox": {
+      "latMin": 18.0,
+      "latMax": 37.0,
+      "lonMin": 8.0,
+      "lonMax": 28.0
+    },
+    "approxAreaKm2": 310000,
+    "geologicalUnit": "Circular Basin filled with multiepisodic basalts",
+    "stratigraphicAge": "Nectarian basin, Imbrian basalt fill (3.8 - 3.2 Ga)",
+    "summary": "Circular mascon basin with distinct dark marginal annulus and younger central basalt fill. Bordered by Montes Haemus.",
+    "significance": "Displays prominent spectral and chemical zoning between high-Ti border flows and lower-Ti central floor.",
+    "meanAbundances": {
+      "th": 3.4,
+      "fe_o": 15.4,
+      "ti_o2": 4.5,
+      "k": 1580,
+      "u": 0.89,
+      "mg_o": 8.6,
+      "al2_o3": 12.9,
+      "si_o2": 45.2,
+      "ca_o": 10.7
+    }
+  },
+  {
+    "id": "mare_crisium",
+    "name": "Mare Crisium",
+    "type": "basin",
+    "centerCoordinates": {
+      "latitude": 17.0,
+      "longitude": 59.1
+    },
+    "boundingBox": {
+      "latMin": 8.0,
+      "latMax": 25.0,
+      "lonMin": 50.0,
+      "lonMax": 68.0
+    },
+    "approxAreaKm2": 176000,
+    "geologicalUnit": "Isolated eastern mascon basin",
+    "stratigraphicAge": "Nectarian basin, filled 3.6 - 2.5 Ga",
+    "summary": "Isolated circular mare on the eastern near side. Target of Soviet Luna 24 mission, which returned VLT (very low-Ti) basalts.",
+    "significance": "Displays distinct eastern near-side geochemical characteristics, isolated from the high-Th PKT influence.",
+    "meanAbundances": {
+      "th": 1.4,
+      "fe_o": 14.8,
+      "ti_o2": 2.2,
+      "k": 780,
+      "u": 0.37,
+      "mg_o": 8.8,
+      "al2_o3": 13.9,
+      "si_o2": 45.6,
+      "ca_o": 11.2
+    }
+  },
+  {
+    "id": "mare_fecunditatis",
+    "name": "Mare Fecunditatis",
+    "type": "mare",
+    "centerCoordinates": {
+      "latitude": -7.8,
+      "longitude": 51.3
+    },
+    "boundingBox": {
+      "latMin": -19.0,
+      "latMax": 3.0,
+      "lonMin": 40.0,
+      "lonMax": 62.0
+    },
+    "approxAreaKm2": 310000,
+    "geologicalUnit": "Irregular mare basin",
+    "stratigraphicAge": "Late Imbrian (3.4 Ga)",
+    "summary": "Broad, shallow mare plain east of Tranquillitatis. Target of Luna 16 sample return.",
+    "significance": "Contains distinctive Al-rich mare basalts that represent unique mantle source compositions distinct from western basalts.",
+    "meanAbundances": {
+      "th": 1.6,
+      "fe_o": 14.2,
+      "ti_o2": 2.6,
+      "k": 850,
+      "u": 0.42,
+      "mg_o": 8.5,
+      "al2_o3": 14.2,
+      "si_o2": 45.3,
+      "ca_o": 11.4
+    }
+  },
+  {
+    "id": "mare_nectaris",
+    "name": "Mare Nectaris",
+    "type": "basin",
+    "centerCoordinates": {
+      "latitude": -15.2,
+      "longitude": 35.5
+    },
+    "boundingBox": {
+      "latMin": -22.0,
+      "latMax": -8.0,
+      "lonMin": 28.0,
+      "lonMax": 43.0
+    },
+    "approxAreaKm2": 100000,
+    "geologicalUnit": "Type locality of Nectarian Period",
+    "stratigraphicAge": "Nectarian (~3.92 Ga), basalt fill 3.8 - 3.5 Ga",
+    "summary": "Classic multi-ring basin surrounded by the prominent Rupes Altai scarp.",
+    "significance": "Key stratigraphic datum for lunar geological timescale; provides absolute age anchor for pre-Imbrian bombardment.",
+    "meanAbundances": {
+      "th": 2.1,
+      "fe_o": 13.5,
+      "ti_o2": 2.8,
+      "k": 1050,
+      "u": 0.55,
+      "mg_o": 8.2,
+      "al2_o3": 15.6,
+      "si_o2": 45.1,
+      "ca_o": 12.0
+    }
+  },
+  {
+    "id": "mare_humorum",
+    "name": "Mare Humorum",
+    "type": "basin",
+    "centerCoordinates": {
+      "latitude": -24.4,
+      "longitude": -38.6
+    },
+    "boundingBox": {
+      "latMin": -31.0,
+      "latMax": -18.0,
+      "lonMin": -45.0,
+      "lonMax": -32.0
+    },
+    "approxAreaKm2": 113000,
+    "geologicalUnit": "Circular mascon mare with concentric graben",
+    "stratigraphicAge": "Nectarian basin, filled 3.6 Ga",
+    "summary": "Small circular basin on southwestern near side with concentric graben (Rimae Hippalus) formed by basalt loading.",
+    "significance": "Displays prominent pyroclastic regional dark mantle deposits on its southwest rim.",
+    "meanAbundances": {
+      "th": 3.6,
+      "fe_o": 15.1,
+      "ti_o2": 3.2,
+      "k": 1420,
+      "u": 0.95,
+      "mg_o": 8.3,
+      "al2_o3": 13.5,
+      "si_o2": 45.3,
+      "ca_o": 10.9
+    }
+  },
+  {
+    "id": "mare_orientale",
+    "name": "Mare Orientale",
+    "type": "basin",
+    "centerCoordinates": {
+      "latitude": -19.4,
+      "longitude": -92.8
+    },
+    "boundingBox": {
+      "latMin": -30.0,
+      "latMax": -10.0,
+      "lonMin": -105.0,
+      "lonMax": -80.0
+    },
+    "approxAreaKm2": 350000,
+    "geologicalUnit": "Youngest large multi-ring impact basin",
+    "stratigraphicAge": "Early Imbrian (~3.8 Ga), unfilled pristine rings",
+    "summary": "Spectacular bullseye basin on the western limb with Cordillera and Montes Rook rings. Lightly flooded with basalt.",
+    "significance": "Preserves pristine multi-ring basin architecture unmodified by extensive basalt floods.",
+    "meanAbundances": {
+      "th": 1.1,
+      "fe_o": 7.5,
+      "ti_o2": 1.1,
+      "k": 520,
+      "u": 0.29,
+      "mg_o": 7.0,
+      "al2_o3": 22.8,
+      "si_o2": 45.0,
+      "ca_o": 13.8
+    }
+  },
+  {
+    "id": "south_pole_aitken",
+    "name": "South Pole\u2013Aitken Basin",
+    "type": "basin",
+    "centerCoordinates": {
+      "latitude": -53.0,
+      "longitude": -169.0
+    },
+    "boundingBox": {
+      "latMin": -75.0,
+      "latMax": -15.0,
+      "lonMin": 135.0,
+      "lonMax": -115.0
+    },
+    "approxAreaKm2": 3800000,
+    "geologicalUnit": "Pre-Nectarian megabasin floor (noritic/gabbroic)",
+    "stratigraphicAge": "Pre-Nectarian (>4.2 Ga)",
+    "summary": "The largest, deepest (~12 km relief), and oldest recognized impact basin on the Moon, dominating the far-side southern hemisphere.",
+    "significance": "Excavated down to the lower lunar crust and possibly upper mantle. Distinctive mafic signature high in FeO and Th relative to surrounding highlands.",
+    "meanAbundances": {
+      "th": 2.4,
+      "fe_o": 10.2,
+      "ti_o2": 1.6,
+      "k": 880,
+      "u": 0.63,
+      "mg_o": 9.4,
+      "al2_o3": 19.8,
+      "si_o2": 45.1,
+      "ca_o": 12.2
+    }
+  },
+  {
+    "id": "procellarum_kreep_terrane",
+    "name": "Procellarum KREEP Terrane (PKT)",
+    "type": "highland_terrane",
+    "centerCoordinates": {
+      "latitude": 25.0,
+      "longitude": -25.0
+    },
+    "boundingBox": {
+      "latMin": -10.0,
+      "latMax": 65.0,
+      "lonMin": -85.0,
+      "lonMax": 20.0
+    },
+    "approxAreaKm2": 6200000,
+    "geologicalUnit": "Enriched incompatible geochemical province (Jolliff et al. 2000)",
+    "stratigraphicAge": "Crustal differentiation ~4.4 Ga; active volcanism to 2.0 Ga",
+    "summary": "One of three major planetary terranes. Enriched in Potassium, Rare Earth Elements, Phosphorus, Thorium, and Uranium.",
+    "significance": "Concentrates the Moon's heat-producing radionuclides, driving prolonged volcanic activity and thinning the elastic lithosphere.",
+    "meanAbundances": {
+      "th": 6.8,
+      "fe_o": 15.2,
+      "ti_o2": 3.8,
+      "k": 2650,
+      "u": 1.79,
+      "mg_o": 8.5,
+      "al2_o3": 13.8,
+      "si_o2": 45.4,
+      "ca_o": 11.0
+    }
+  },
+  {
+    "id": "feldspathic_highlands_terrane",
+    "name": "Feldspathic Highlands Terrane (FHT)",
+    "type": "highland_terrane",
+    "centerCoordinates": {
+      "latitude": 10.0,
+      "longitude": 140.0
+    },
+    "boundingBox": {
+      "latMin": -70.0,
+      "latMax": 70.0,
+      "lonMin": 80.0,
+      "lonMax": -120.0
+    },
+    "approxAreaKm2": 24000000,
+    "geologicalUnit": "Anorthositic flotation crust",
+    "stratigraphicAge": "Primary differentiation ~4.5 - 4.4 Ga",
+    "summary": "The primordial lunar crust forming the vast, cratered far-side highlands and polar regions.",
+    "significance": "Formed by flotation of low-density plagioclase feldspar on the cooling Lunar Magma Ocean. Very high Al2O3 and low FeO/Th.",
+    "meanAbundances": {
+      "th": 0.6,
+      "fe_o": 4.2,
+      "ti_o2": 0.4,
+      "k": 320,
+      "u": 0.16,
+      "mg_o": 5.8,
+      "al2_o3": 28.5,
+      "si_o2": 44.9,
+      "ca_o": 15.8
+    }
+  },
+  {
+    "id": "nearside_hemisphere",
+    "name": "Nearside Hemisphere",
+    "type": "highland_terrane",
+    "centerCoordinates": {
+      "latitude": 0.0,
+      "longitude": 0.0
+    },
+    "boundingBox": {
+      "latMin": -90.0,
+      "latMax": 90.0,
+      "lonMin": -90.0,
+      "lonMax": 90.0
+    },
+    "approxAreaKm2": 18966000,
+    "geologicalUnit": "Hemispheric division with ~31% mare coverage",
+    "stratigraphicAge": "Pre-Nectarian to Copernican",
+    "summary": "The Earth-facing side of the Moon, characterized by extensive basaltic maria, thinner crust (~30-40 km), and higher heat flow.",
+    "significance": "Site of all six Apollo landings, Luna 16/20/24, and Chang'e 5.",
+    "meanAbundances": {
+      "th": 3.6,
+      "fe_o": 11.8,
+      "ti_o2": 2.8,
+      "k": 1450,
+      "u": 0.95,
+      "mg_o": 7.8,
+      "al2_o3": 19.5,
+      "si_o2": 45.2,
+      "ca_o": 12.8
+    }
+  },
+  {
+    "id": "farside_hemisphere",
+    "name": "Farside Hemisphere",
+    "type": "highland_terrane",
+    "centerCoordinates": {
+      "latitude": 0.0,
+      "longitude": 180.0
+    },
+    "boundingBox": {
+      "latMin": -90.0,
+      "latMax": 90.0,
+      "lonMin": 90.0,
+      "lonMax": -90.0
+    },
+    "approxAreaKm2": 18966000,
+    "geologicalUnit": "Heavily cratered thick anorthositic crust (~60-70 km)",
+    "stratigraphicAge": "Pre-Nectarian to Copernican",
+    "summary": "The lunar hemisphere permanently turned away from Earth. Dominated by rugged feldspathic highlands and the deep SPA basin.",
+    "significance": "Crucial contrast proving the Moon's fundamental geochemical and crustal dichotomy.",
+    "meanAbundances": {
+      "th": 1.1,
+      "fe_o": 5.9,
+      "ti_o2": 0.8,
+      "k": 480,
+      "u": 0.29,
+      "mg_o": 6.8,
+      "al2_o3": 25.4,
+      "si_o2": 44.9,
+      "ca_o": 14.6
+    }
+  }
+]
